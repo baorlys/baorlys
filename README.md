@@ -7,6 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&hide=html,css,less,scss,tsql)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
-<img src="https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&origin=search&related_id=2111463" alt="my banner">
+<img src="![image](https://user-images.githubusercontent.com/69019508/212467244-feea34e5-2413-43f7-80d4-c69ee1543385.png)" alt="my banner">
 - Email: <a href="lygiabaokg2002@gmail.com">lygiabaokg2002@gmail.com</a>
 - <a href="https://www.instagram.com/yloab_/">yloab_</a>
