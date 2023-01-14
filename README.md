@@ -1,5 +1,7 @@
 ### :wave: Xin chao, toi la Bao :raising_hand_man:
+
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
+
 ## I'm student !
 - Student at Huynh Man Dat School for the Gifted (2016-2020)
 - Student at Ton Duc Thang University (2020-2024)
