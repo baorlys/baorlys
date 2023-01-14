@@ -4,7 +4,7 @@
 
 
 
-<img align="right" width="300" alt="coding" src="https://camo.githubusercontent.com/61803fb67d1af1461d6c7511005da1199833b4e8d887019afe9f124e1102e705/68747470733a2f2f63646e2e746f6d6f6e6472652e636f6d2f746869732d69732d66696e652e6a7067">
+<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/61803fb67d1af1461d6c7511005da1199833b4e8d887019afe9f124e1102e705/68747470733a2f2f63646e2e746f6d6f6e6472652e636f6d2f746869732d69732d66696e652e6a7067">
 
 ## I'm student !
 - Student at Huynh Man Dat School for the Gifted (2016-2020)
