@@ -1,9 +1,9 @@
 
-### <h1 align="center">:wave: Xin chao, toi la Bao :raising_hand_man:</h1> 
+### <h1 align="center">Xin chao, toi la Bao :raising_hand_man:</h1> 
 
 
 
-<img align="right" width="300" alt="coding" src="https://dribbble.com/shots/3143314-Learning-to-code/attachments/9670464?mode=media">
+<img align="right" width="300" alt="coding" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/media/05e882387868847f87e2855f106e2d4a.gif">
 
 ## I'm student !
 - Student at Huynh Man Dat School for the Gifted (2016-2020)
