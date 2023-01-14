@@ -17,17 +17,22 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
+<!-- https://icons8.com -->
 <div align="center">
 <a href="mailto:lygiabaokg2002@gmail.com" target="top">
-    <img width="50px" src="https://icons8.com/icon/6QtoKjRma1Cq/gmail" alt="email">
+    <img width="50px" src="https://img.icons8.com/clouds/100/null/gmail.png" alt="email">
 </a>
 
 <a href="https://www.instagram.com/yloab_" target="blank">
-    <img width="50px" src="https://icons8.com/icon/hFoVFpm6gl9A/instagram" alt="instagram">
+    <img width="50px" src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png" alt="instagram">
+</a>
+
+<a href="https://www.facebook.com/giabao.ly.5015" target="blank">
+    <img width="50px" src="https://img.icons8.com/clouds/100/null/facebook-new.png" alt="facebook">
 </a>
 
 <a href="https://www.linkedin.com/in/l%C3%BD-gia-b%E1%BA%A3o-636392235" target="blank">
-    <img width="50px" src="https://icons8.com/icon/64154/linkedin" alt="linkedin">
+    <img width="50px" src="https://img.icons8.com/clouds/100/null/linkedin.png" alt="linkedin">
 </a>
 
 </div>
