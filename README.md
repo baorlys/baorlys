@@ -1,5 +1,5 @@
-### :wave: Xin chao, toi la Bao :raising_hand_man:
-:wave: <h1 align="center">Xin chao, toi la Bao</h1> :raising_hand_man:
+###  Xin chao, toi la Bao :raising_hand_man:
+:wave: <h1 align="center">:wave: Xin chao, toi la Bao :raising_hand_man:</h1> 
 
 
 
