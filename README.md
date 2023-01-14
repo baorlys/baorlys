@@ -7,7 +7,7 @@
 ## Languages and tools
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact&hide=css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -20,19 +20,19 @@
 <!-- https://icons8.com -->
 <div align="center">
 <a href="mailto:lygiabaokg2002@gmail.com" target="top">
-    <img width="50px" src="https://img.icons8.com/clouds/100/null/gmail.png" alt="email">
+    <img width="80px" src="https://img.icons8.com/clouds/100/null/gmail.png" alt="email">
 </a>
 
-<a href="https://www.instagram.com/yloab_" target="blank">
-    <img width="50px" src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png" alt="instagram">
+<a href="https://www.instagram.com/yloab_" target="_blank">
+    <img width="80px" src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png" alt="instagram">
 </a>
 
-<a href="https://www.facebook.com/giabao.ly.5015" target="blank">
-    <img width="50px" src="https://img.icons8.com/clouds/100/null/facebook-new.png" alt="facebook">
+<a href="https://www.facebook.com/giabao.ly.5015" target="_blank">
+    <img width="80px" src="https://img.icons8.com/clouds/100/null/facebook-new.png" alt="facebook">
 </a>
 
-<a href="https://www.linkedin.com/in/l%C3%BD-gia-b%E1%BA%A3o-636392235" target="blank">
-    <img width="50px" src="https://img.icons8.com/clouds/100/null/linkedin.png" alt="linkedin">
+<a href="https://www.linkedin.com/in/l%C3%BD-gia-b%E1%BA%A3o-636392235" target="_blank">
+    <img width="80px" src="https://img.icons8.com/clouds/100/null/linkedin.png" alt="linkedin">
 </a>
 
 </div>
