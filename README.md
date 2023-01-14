@@ -1,12 +1,20 @@
-### :wave: Xin chao, toi la Bao :raising_hand_man: - aka [Barolys]
-- Student at Ton Duc Thang University
+### :wave: Xin chao, toi la Bao :raising_hand_man:
 
-
-### Performance
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+## I'm student, developer ! 
+- Student at Huynh Man Dat School for the Gifted (2016-2020)
+- Student at Ton Duc Thang University (2020-2024)
 
 ### Languages and tools
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 <a href="lygiabaokg2002@gmail.com"><img height="50" width="50" src="https://user-images.githubusercontent.com/69019508/212467354-b4ff0916-3569-491d-b0c5-bc4ad5284d4d.png" alt="email"></a>
