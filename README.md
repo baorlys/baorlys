@@ -1,4 +1,7 @@
 ### :wave: Xin chao, toi la Bao :raising_hand_man:
+:wave: <h1 align="center">Xin chao, toi la Bao</h1> :raising_hand_man:
+
+
 
 <img align="right" width="300" alt="coding" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
@@ -7,7 +10,7 @@
 - Student at Ton Duc Thang University (2020-2024)
 
 ## Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,g,spring,idea,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,spring,idea,vscode,visualstudio)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
