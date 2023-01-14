@@ -1,6 +1,6 @@
 ### :wave: Xin chao, toi la Bao :raising_hand_man:
 
-## I'm student, developer ! 
+## I'm student !
 - Student at Huynh Man Dat School for the Gifted (2016-2020)
 - Student at Ton Duc Thang University (2020-2024)
 
@@ -19,10 +19,15 @@
 ## Contact
 <div align="center">
 <a href="mailto:lygiabaokg2002@gmail.com" target="top">
-    <img width="50px" src="https://user-images.githubusercontent.com/69019508/212467354-b4ff0916-3569-491d-b0c5-bc4ad5284d4d.png" alt="email">
+    <img width="50px" src="https://icons8.com/icon/6QtoKjRma1Cq/gmail" alt="email">
 </a>
 
-<a href="https://www.instagram.com/yloab_/" target="blank">
-    <img width="50px" src="https://user-images.githubusercontent.com/69019508/212467244-feea34e5-2413-43f7-80d4-c69ee1543385.png" alt="instagram">
+<a href="https://www.instagram.com/yloab_" target="blank">
+    <img width="50px" src="https://icons8.com/icon/hFoVFpm6gl9A/instagram" alt="instagram">
 </a>
+
+<a href="https://www.linkedin.com/in/l%C3%BD-gia-b%E1%BA%A3o-636392235" target="blank">
+    <img width="50px" src="https://icons8.com/icon/64154/linkedin" alt="linkedin">
+</a>
+
 </div>
