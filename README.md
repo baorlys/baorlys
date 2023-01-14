@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats-1r4bjdgm7-baorlys.vercel.app/api/top-langs/?username=baorlys&layout=compact&hide=css,scss,html,tsql)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Baorlys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Baorlys's wakatime stats](https://github-readme-stats-1r4bjdgm7-baorlys.vercel.app/api/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 <!-- https://icons8.com -->
