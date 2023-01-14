@@ -1,4 +1,5 @@
 <img src="https://miro.medium.com/max/640/0*irw4k1weXJkFYPbO.gif" width="100%" height="auto"/>
+
 ### <h1 align="center">Xin chao, toi la Bao :raising_hand_man:</h1> 
 
 
@@ -17,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Baorlys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Baorlys's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Contact
 <!-- https://icons8.com -->
