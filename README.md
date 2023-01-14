@@ -8,9 +8,7 @@
 
 # Contact
 <p align=”center”>
-
-<img width=”200" height=”200" src=”https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png alt=”my banner”>
-
+<img width="200" height="200" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="my banner">
 </p>
 - Email: <a href="lygiabaokg2002@gmail.com">lygiabaokg2002@gmail.com</a>
 - Instagram: <a href="https://www.instagram.com/yloab_/">yloab_</a>
