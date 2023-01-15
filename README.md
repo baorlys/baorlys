@@ -13,9 +13,9 @@
 
 - 🌱 Student at Huynh Man Dat School for the Gifted (2016-2020)
 - 🌱 Student at Ton Duc Thang University (2020-2024)
-- 👨‍💻 I’m currently learning Spring
+- 👨‍💻 I'm currently learning Spring
 - 📝 I would like to become a Backend Dev
-- ⚡ Fun fact: im enjoy reading and music
+- ⚡ I'm enjoy reading and music
 
 # Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,spring,idea,vscode,visualstudio)](https://skillicons.dev)
