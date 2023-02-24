@@ -34,7 +34,7 @@
     <img width="80px" src="https://img.icons8.com/clouds/100/null/gmail.png" alt="email">
 </a>
 
-<a href="https://www.instagram.com/yloab_" target="_blank">
+<a href="https://www.instagram.com/baorlys" target="_blank">
     <img width="80px" src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png" alt="instagram">
 </a>
 
