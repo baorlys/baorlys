@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,spring,idea,vscode,visualstudio)](https://skillicons.dev)
 
 # Stats
-h
+
 [![Baorlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/top-langs/?username=baorlys&layout=compact&hide=css,scss,html,tsql)](https://github.com/anuraghazra/github-readme-stats)
