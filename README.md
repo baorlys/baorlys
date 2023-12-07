@@ -24,7 +24,7 @@
 
 [![Baorlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/top-langs/api?username=baorlys&layout=compact&hide=css,scss,html,tsql)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&hide_progress=true)
 
 [![Baorlys's wakatime stats](https:/github-readme-stats.vercel.app/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats)
 
