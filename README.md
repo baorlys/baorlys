@@ -21,11 +21,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,spring,idea,vscode,visualstudio)](https://skillicons.dev)
 
 # Stats
-[![Baorlys's GitHub stats](https://github-readme-stats-1r4bjdgm7-baorlys.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Baorlys's GitHub stats](https://github-readme-stats-baorlys.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-1r4bjdgm7-baorlys.vercel.app/api/top-langs/?username=baorlys&layout=compact&hide=css,scss,html,tsql)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-baorlys.vercel.app/api/top-langs/?username=baorlys&layout=compact&hide=css,scss,html,tsql)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Baorlys's wakatime stats](https://github-readme-stats-1r4bjdgm7-baorlys.vercel.app/api/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats)
+[![Baorlys's wakatime stats](https://github-readme-stats-baorlys.vercel.app/api/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 <!-- https://icons8.com -->
