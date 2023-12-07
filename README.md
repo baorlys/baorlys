@@ -22,12 +22,9 @@
 
 # Stats
 
-[![Baorlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+![Baorlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&hide_progress=true)
-
-[![Baorlys's wakatime stats](https:/github-readme-stats.vercel.app/wakatime?username=baorlys)](https://github.com/anuraghazra/github-readme-stats)
-
+![Baorlys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baorlys)
 # Contact
 <!-- https://icons8.com -->
 <div align="center">
