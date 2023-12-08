@@ -18,13 +18,13 @@
 - ⚡ I'm enjoy reading and music
 
 # Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,spring,idea,vscode,visualstudio)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,spring,idea,vscode,visualstudio)
 
 # Stats
 
-[![Baorlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/baorlys/baorlys)
-[![Baorlys's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact)](https://github.com/baorlys/baorlys)
-[![Baorlys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baorlys)](https://github.com/baorlys/baorlys)
+[![Baorlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/baorlys)
+[![Baorlys's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact)](https://github.com/baorlys)
+[![Baorlys's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baorlys)](https://github.com/baorlys)
 # Contact
 <!-- https://icons8.com -->
 <div align="center">
