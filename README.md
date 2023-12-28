@@ -46,15 +46,12 @@ Let's connect and explore potential collaborations!
     <img width="80px" src="https://img.icons8.com/clouds/100/null/gmail.png" alt="email">
 </a>
 
-<a href="https://www.instagram.com/baorlys" target="_blank">
-    <img width="80px" src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png" alt="instagram">
-</a>
 
 <a href="https://www.facebook.com/giabao.ly.5015" target="_blank">
     <img width="80px" src="https://img.icons8.com/clouds/100/null/facebook-new.png" alt="facebook">
 </a>
 
-<a href="https://www.linkedin.com/in/l%C3%BD-gia-b%E1%BA%A3o-636392235" target="_blank">
+<a href="https://www.linkedin.com/in/baorlys" target="_blank">
     <img width="80px" src="https://img.icons8.com/clouds/100/null/linkedin.png" alt="linkedin">
 </a>
 
