@@ -6,9 +6,6 @@
 
 
 
-# I'm student !
-
-
 <img align="right" width="350" alt="coding" src="https://camo.githubusercontent.com/61803fb67d1af1461d6c7511005da1199833b4e8d887019afe9f124e1102e705/68747470733a2f2f63646e2e746f6d6f6e6472652e636f6d2f746869732d69732d66696e652e6a7067">
 
 🎓 Final-Year Software Engineering Student | TDTU
