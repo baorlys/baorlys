@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/max/640/0*irw4k1weXJkFYPbO.gif" width="100%" height="auto"/>
 
-<h1 align="center">Xin chao, toi la Bao :raising_hand_man:</h1> 
+<h1 align="center">Xin chao, I'm Bao :raising_hand_man:</h1> 
 
 
 
@@ -11,11 +11,27 @@
 
 <img align="right" width="350" alt="coding" src="https://camo.githubusercontent.com/61803fb67d1af1461d6c7511005da1199833b4e8d887019afe9f124e1102e705/68747470733a2f2f63646e2e746f6d6f6e6472652e636f6d2f746869732d69732d66696e652e6a7067">
 
-- 🌱 Student at Huynh Man Dat School for the Gifted (2016-2020)
-- 🌱 Student at Ton Duc Thang University (2020-2024)
-- 👨‍💻 I'm currently learning Spring
-- 📝 I would like to become a Backend Dev
-- ⚡ I'm enjoy reading and music
+🎓 Final-Year Software Engineering Student | TDTU
+
+Passionate final-year student majoring in Software Engineering at Ton Duc Thang University. Proficient in backend development with a focus on Java.
+
+👨‍🎓 Aspiring Master's Candidate | TDTU Computer Science
+
+Currently enrolled in the 4+1 Master's program at Ton Duc Thang University, pursuing a Master's in Computer Science. My academic journey reflects a keen interest in data and artificial intelligence.
+
+💻 Backend Java Developer
+
+Skilled in crafting robust backend solutions using Java. Excited about software engineering challenges and committed to continuous learning.
+
+🚀 Data and AI Enthusiast
+
+Driven by a passion for data and artificial intelligence, I am dedicated to expanding my knowledge in these fields. Eager to contribute to cutting-edge advancements and innovative projects.
+
+🌐 Open to Opportunities
+
+Actively seeking opportunities to apply my skills and knowledge in a dynamic environment. Open to collaboration, learning, and contributing to impactful projects.
+
+Let's connect and explore potential collaborations!
 
 # Languages and tools
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,spring,idea,vscode,visualstudio)
