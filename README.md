@@ -46,7 +46,6 @@ Let's connect and explore potential collaborations!
     <img width="80px" src="https://img.icons8.com/clouds/100/null/gmail.png" alt="email">
 </a>
 
-
 <a href="https://www.facebook.com/giabao.ly.5015" target="_blank">
     <img width="80px" src="https://img.icons8.com/clouds/100/null/facebook-new.png" alt="facebook">
 </a>
