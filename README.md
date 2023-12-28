@@ -34,7 +34,7 @@ Actively seeking opportunities to apply my skills and knowledge in a dynamic env
 Let's connect and explore potential collaborations!
 
 # Languages and tools
-![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cs,spring,idea,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=python,java,cs,spring,idea,vscode,visualstudio)
 
 # Stats
 
