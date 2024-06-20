@@ -1,8 +1,8 @@
 <img src="https://miro.medium.com/max/640/0*irw4k1weXJkFYPbO.gif" width="100%" height="auto"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Bao+Ly)](https://git.io/typing-svg)
-
-
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Bao+Ly" alt="Typing SVG" /></a>
+</p>
 
 <img align="right" width="350" alt="coding" src=
 "https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
