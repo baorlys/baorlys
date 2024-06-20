@@ -1,8 +1,6 @@
 <img src="https://miro.medium.com/max/640/0*irw4k1weXJkFYPbO.gif" width="100%" height="auto"/>
 
-<h1 align="center">Xin chao, I'm Bao :raising_hand_man:</h1> 
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Bao+Ly)](https://git.io/typing-svg)
 
 
 
