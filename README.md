@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/baorlys">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/giabao.ly.5015">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
 </div>
 
 <hr/>
@@ -30,9 +27,8 @@ I am a **Backend Engineer** with ~2 years of experience specializing in building
 
 Currently, I am deep-diving into **Software Architecture**, **Microservices**, and optimizing **DevX** (Developer Experience) with Neovim & Linux.
 
-- 🔭 I’m currently building a **CIF Generation System** (Core Banking) & a personal **Portfolio platform**.
+- 🔭 I’m currently work for **Digital Banking System**.
 - 🌱 I’m currently learning **Advanced System Design**, **Elliptic Curve Cryptography (ECC)**, and **AWS**.
-- ⚡ **Fun fact:** I code Java in **Vim** and I use **Arch/Ubuntu (WSL)**.
 
 ---
 
@@ -43,19 +39,6 @@ Currently, I am deep-diving into **Software Architecture**, **Microservices**, a
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/baorlys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baorlys&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="baorlys's github stats" height="160"/>
-  </a>
-  <a href="https://github.com/baorlys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" height="160"/>
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="150" alt="coding gif">
