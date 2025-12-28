@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://miro.medium.com/max/640/0*irw4k1weXJkFYPbO.gif" width="100%" height="auto"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hkY3FhcHBnanFrbHd1bmR5enRuc2V5NGNibG82dXVrMXJuY3AzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pUVOeIagS1rrqsYQJe/giphy.gif
+" width="100%" height="auto"/>
 </div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
