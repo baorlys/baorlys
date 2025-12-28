@@ -1,55 +1,62 @@
-<img src="https://miro.medium.com/max/640/0*irw4k1weXJkFYPbO.gif" width="100%" height="auto"/>
-
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Bao+Ly" alt="Typing SVG" /></a>
-</p>
-
-<img align="right" width="350" alt="coding" src=
-"https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
-
-🎓 Final-Year Software Engineering Student | TDTU
-
-Passionate final-year student majoring in Software Engineering at Ton Duc Thang University. Proficient in backend development with a focus on Java.
-
-👨‍🎓 Aspiring Master's Candidate | TDTU Computer Science
-
-Currently enrolled in the 4+1 Master's program at Ton Duc Thang University, pursuing a Master's in Computer Science. My academic journey reflects a keen interest in data and artificial intelligence.
-
-💻 Backend Java Developer
-
-Skilled in crafting robust backend solutions using Java. Excited about software engineering challenges and committed to continuous learning.
-
-🚀 Data and AI Enthusiast
-
-Driven by a passion for data and artificial intelligence, I am dedicated to expanding my knowledge in these fields. Eager to contribute to cutting-edge advancements and innovative projects.
-
-🌐 Open to Opportunities
-
-Actively seeking opportunities to apply my skills and knowledge in a dynamic environment. Open to collaboration, learning, and contributing to impactful projects.
-
-Let's connect and explore potential collaborations!
-
-# Languages and tools
-![My Skills](https://skillicons.dev/icons?i=python,java,cs,spring,idea,vscode,visualstudio)
-
-# Stats
-
-[![Baorlys's GitHub stats](https://github-readme-stats.vercel.app/api?username=baorlys&count_private=true&show_icons=true&theme=dracula)](https://github.com/baorlys)
-# Contact
-<!-- https://icons8.com -->
 <div align="center">
-<a href="mailto:lygiabaokg2002@gmail.com" target="top">
-    <img width="80px" src="https://img.icons8.com/clouds/100/null/gmail.png" alt="email">
-</a>
-
-<a href="https://www.facebook.com/giabao.ly.5015" target="_blank">
-    <img width="80px" src="https://img.icons8.com/clouds/100/null/facebook-new.png" alt="facebook">
-</a>
-
-<a href="https://www.linkedin.com/in/baorlys" target="_blank">
-    <img width="80px" src="https://img.icons8.com/clouds/100/null/linkedin.png" alt="linkedin">
-</a>
-
-              
+  <img src="https://miro.medium.com/max/640/0*irw4k1weXJkFYPbO.gif" width="100%" height="auto"/>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Spring;System+Design+%26+Microservices;Vim+%26+Linux+Enthusiast;Building+High-Scalability+Systems" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:lygiabaokg2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/baorlys">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/giabao.ly.5015">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
+
+<hr/>
+
+### 👨‍💻 About Me
+
+I am a **Backend Engineer** with ~2 years of experience specializing in building robust, scalable systems using **Java** and **Spring Boot**. I have successfully delivered solutions in **Healthcare, F&B, and Banking** domains.
+
+Currently, I am deep-diving into **Software Architecture**, **Microservices**, and optimizing **DevX** (Developer Experience) with Neovim & Linux.
+
+- 🔭 I’m currently building a **CIF Generation System** (Core Banking) & a personal **Portfolio platform**.
+- 🌱 I’m currently learning **Advanced System Design**, **Elliptic Curve Cryptography (ECC)**, and **AWS**.
+- ⚡ **Fun fact:** I code Java in **Vim** and I use **Arch/Ubuntu (WSL)**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,redis,kafka,docker,aws,linux,vim,idea,git,maven,jenkins&perline=7&theme=dark" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/baorlys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baorlys&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="baorlys's github stats" height="160"/>
+  </a>
+  <a href="https://github.com/baorlys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baorlys&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" height="160"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="150" alt="coding gif">
+</div>
