@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/help-harold-hide-the-pain-pUVOeIagS1rrqsYQJe" width="100%" height="auto"/>
+  <img src="https://i.giphy.com/pUVOeIagS1rrqsYQJe.webp" width="100%" height="auto"/>
 </div>
 
 
