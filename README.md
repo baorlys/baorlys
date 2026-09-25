@@ -12,6 +12,9 @@
 <br/>
 
 <div align="center">
+  <a href="https://baorlys.dev">
+    <img src="https://img.shields.io/badge/Portfolio-baorlys.dev-b8f36a?style=for-the-badge&labelColor=0c0d0c&logo=googlechrome&logoColor=b8f36a" />
+  </a>
   <a href="mailto:lygiabaokg2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
